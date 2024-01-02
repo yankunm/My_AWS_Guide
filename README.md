@@ -26,7 +26,7 @@
 
 ### Different Types of Cloud Computing
 
-![Different Types of Cloud Computing](IMG_0187-1.PNG)
+![Different Types of Cloud Computing](images/IMG_0187-1.PNG)
 
 There are three types of cloud computing:
 * **IaaS**: *Infrastructure as a Service*
@@ -78,7 +78,7 @@ Amazon has 400+ points of presence in 90+ cities across 40+ countries.
 
 ### AWS Shared Responsibility Model
 
-![Shared Responsibility Model](image.png)
+![Shared Responsibility Model](images/image.png)
 
 * *Customer*: Responsibility **IN** the cloud
 * *AWS*: Responsibility **OF** the cloud

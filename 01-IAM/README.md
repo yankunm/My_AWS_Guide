@@ -34,11 +34,11 @@ The policy consists of:
 Some common policies used are:
 * **AdministratorAccess**: allows full access
 
-![Alt text](aa-policy.png)
+![Alt text](../images/aa-policy.png)
 
 * **IAMReadOnlyAccess**: allows read only access
 
-![Alt text](roa-policy.png)
+![Alt text](../images/roa-policy.png)
 
 Note: You can also create your own policies
 
